@@ -1,0 +1,6 @@
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{Secção inicial}{1}{0}{1}
+\beamer@sectionintoc {2}{Secção 1}{2}{0}{2}
+\beamer@sectionintoc {3}{Secção 2}{3}{0}{3}
+\beamer@sectionintoc {4}{Secção 3}{4}{0}{4}
+\beamer@sectionintoc {5}{Secção 4}{5}{0}{5}
